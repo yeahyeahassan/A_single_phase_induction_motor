@@ -6,7 +6,7 @@ The aim of this project is to enhance the performance of a single-phase inductio
 
 ## 🛠️ Components
 - 🔵 Circular cap
-- ⚡ Capacitor 220μF
+- ⚡ Capacitor 2200μF/35v
 - 🔌 12V AC power supply
 - 🧵 0.4mm copper wire
 - 📌 Plastic tape
