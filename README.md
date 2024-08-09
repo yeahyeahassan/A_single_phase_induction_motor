@@ -14,6 +14,10 @@ The aim of this project is to enhance the performance of a single-phase inductio
 ## 🔧 Circuit Design
 The capacitor is connected in series with the motor winding to introduce a **phase shift**. The use of **4 poles** is designed to optimize the interaction of the magnetic field.
 
+## Schematic 
+![Digital Schematic](https://github.com/user-attachments/assets/54b6e998-663f-48ca-97f5-78f6ba701805)
+
+
 ## ⚙️ Working Principle
 The system utilizes **4 poles** and a **capacitor** to generate a **rotating magnetic field**, thereby enhancing the **starting torque** crucial for efficient motor operation.
 
